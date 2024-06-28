@@ -30,3 +30,23 @@ p
     font-size: 21px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.camp
+{
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 1.875em;
+}
+
+.app
+{
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+.copyright
+{
+    text-align: right;
+    color: gray;
+}
